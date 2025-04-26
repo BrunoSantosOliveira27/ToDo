@@ -1,0 +1,22 @@
+##
+    Configuração do Git:
+        git config --global user.name AlanPinheiro96
+        git config --global user.email alantnt15@gmail.com
+        git config --global user.name BrunoSantosOliveira27
+        git config --global user.email bruunoosanntos@outlook.com
+
+##
+
+Criar um projeto Angular:
+    ng new todo 
+
+Rodar App:   
+    ng serve -o
+
+Criar um componente:
+    ng g c todo-list
+
+Instalação do BootStrap:
+    npm i bootstrap
+Importar o bootstrap e colocar no angular.json
+
